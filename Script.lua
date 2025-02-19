@@ -1,4 +1,4 @@
-print("🔹 MK Hub Iniciado...")
+ print("🔹 MK Hub Iniciado...")
 print("🔹 Auto Farm Ativado...")
 
 local player = game.Players.LocalPlayer
